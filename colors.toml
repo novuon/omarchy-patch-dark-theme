@@ -1,0 +1,41 @@
+# Patch Dark: every colour set by hand.
+mode = "dark"
+
+accent = "#e43055"
+selection = "#4a1d28"
+muted = "#878c88"
+
+background = "#141715"
+dark_background = "#0f1210"
+darker_background = "#0a0c0b"
+lighter_background = "#1e221f"
+
+foreground = "#c2c7c3"
+dark_foreground = "#878c88"
+light_foreground = "#9a9f9b"
+bright_foreground = "#e8ebe9"
+
+selection_foreground = "#e8ebe9"
+selection_background = "#4a1d28"
+
+# Window borders: ink when focused, a faint rule otherwise.
+hyprland_active_border = "#c2c7c3"
+hyprland_inactive_border = "rgba(43484488)"
+
+# ANSI, every one at least 4.5:1 on the background (terminals, and the
+# agents in them: Codex, Claude Code, herdr's panes).
+red = "#ec5673"
+yellow = "#d9ad3c"
+orange = "#e07a45"
+green = "#5fb070"
+cyan = "#4fb3bd"
+blue = "#7c8ae0"
+magenta = "#9d7cf0"
+brown = "#b08a64"
+
+bright_red = "#ff7a93"
+bright_yellow = "#f0c75e"
+bright_green = "#7fcf8f"
+bright_cyan = "#74d0d9"
+bright_blue = "#9ca7ee"
+bright_magenta = "#b89cf7"
